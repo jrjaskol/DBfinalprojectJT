@@ -1,0 +1,63 @@
+
+
+
+#studentMainContent {
+    padding-top: 20px;
+}
+
+
+@media (min-width: 576px) { 
+
+}
+
+@media (min-width: 768px) { 
+
+}
+
+@media (min-width: 992px) { 
+    
+    #studentExamName {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
+    #studentMainContent {
+        padding-top: 60px;
+    }
+
+    #studentExamQuestion {
+        padding-bottom: 20px;
+    }
+
+    #studentExamAnswers {
+        padding-left: 40px;
+        padding-bottom: 20px;
+    }
+
+    #gradebookContainer {
+        padding-top: 50px;
+    }
+
+    #instructorCreateExam {
+        font-size: 11rem;
+        color: rgb(90, 90, 110);
+    }
+
+    #instructorMainContent {
+        padding-top: 120px;
+    }
+
+    #instructorQuizCreationBox {
+        padding-top: 30px;
+        
+        width: 50%;
+    }
+
+    #createStudentContent {
+        padding-top: 30px;
+    }
+}
+
+@media (min-width: 1200px) {
+
+}

@@ -1,0 +1,57 @@
+
+body {
+    background: url('./loginBackground.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+  #loginContent {
+    padding-top: 20px;
+    color: rgb(231, 221, 221);
+    font-size: 1.2em;
+}
+
+#loginText {
+    padding-bottom: 25px;
+    font-size: 2.4em;
+}
+
+
+
+@media (min-width: 576px) { 
+    #loginContent {
+        padding-top: 80px;
+        
+    }
+
+    #loginText {
+        padding-bottom: 25px;
+        font-size: 2.4em;
+    }
+}
+
+@media (min-width: 768px) { 
+
+}
+
+@media (min-width: 992px) { 
+    
+    #loginContent {
+        padding-top: 120px;
+        color: rgb(231, 221, 221);
+        font-size: 1.2em;
+    }
+
+    #loginText {
+        padding-bottom: 25px;
+        font-size: 2.4em;
+    }
+
+    
+}
+
+@media (min-width: 1200px) {
+
+}
